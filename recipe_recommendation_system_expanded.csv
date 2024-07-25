@@ -1,0 +1,1001 @@
+RecipeName,Ingredients,Cuisine,Steps,RecipeID,DietaryRestrictions,PreparationTime,CookingTime,Difficulty,UserRating,Servings
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,1,None,15,30,Medium,2.0,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,2,Nut-Free,15,50,Easy,1.2,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,3,Nut-Free,20,10,Medium,1.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,4,None,30,10,Easy,4.1,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,5,Nut-Free,25,50,Hard,2.5,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,6,None,30,20,Hard,2.8,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,7,Vegan,10,20,Easy,3.3,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,8,Nut-Free,30,10,Hard,1.3,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,9,Gluten-Free,15,50,Medium,3.4,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,10,Dairy-Free,20,30,Easy,1.5,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,11,None,25,10,Easy,2.8,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,12,None,20,30,Medium,2.0,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,13,Dairy-Free,30,20,Medium,3.6,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,14,Nut-Free,20,30,Easy,3.6,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,15,Gluten-Free,25,40,Hard,2.1,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,16,Dairy-Free,10,40,Easy,1.3,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,17,Vegan,15,40,Easy,3.9,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,18,Dairy-Free,25,30,Medium,1.9,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,19,Dairy-Free,20,30,Medium,1.9,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,20,Nut-Free,25,10,Hard,1.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,21,Dairy-Free,25,50,Easy,1.5,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,22,Gluten-Free,25,50,Medium,1.3,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,23,Vegan,10,30,Medium,2.0,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,24,None,30,40,Medium,3.5,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,25,Dairy-Free,15,40,Hard,4.0,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,26,Dairy-Free,30,40,Hard,3.2,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,27,Dairy-Free,20,40,Medium,4.7,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,28,None,25,40,Easy,3.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,29,None,15,50,Easy,4.3,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,30,Dairy-Free,30,30,Easy,3.1,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,31,Dairy-Free,20,20,Hard,1.6,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,32,None,25,30,Medium,2.6,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,33,Vegan,15,30,Medium,3.0,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,34,Gluten-Free,30,50,Medium,3.5,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,35,Dairy-Free,25,30,Medium,4.6,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,36,Vegan,15,30,Medium,2.4,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,37,Vegan,30,20,Hard,1.2,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,38,None,30,40,Medium,1.4,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,39,Gluten-Free,20,20,Easy,4.1,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,40,None,25,40,Easy,2.8,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,41,Gluten-Free,10,30,Hard,2.0,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,42,None,25,30,Medium,2.2,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,43,None,30,40,Hard,4.6,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,44,Gluten-Free,20,20,Medium,3.7,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,45,None,25,30,Medium,2.8,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,46,Vegan,20,20,Easy,4.2,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,47,Gluten-Free,25,50,Medium,1.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,48,None,25,50,Medium,4.2,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,49,None,15,30,Medium,1.3,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,50,Dairy-Free,30,30,Medium,3.8,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,51,Dairy-Free,15,10,Hard,1.4,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,52,None,25,30,Hard,2.0,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,53,Vegan,20,10,Hard,4.3,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,54,None,20,30,Easy,3.4,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,55,Nut-Free,10,20,Easy,3.6,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,56,Vegan,25,10,Medium,3.8,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,57,Dairy-Free,15,50,Medium,3.9,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,58,Vegan,15,50,Hard,3.5,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,59,Gluten-Free,30,10,Medium,2.8,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,60,Dairy-Free,30,10,Hard,4.6,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,61,Vegan,10,10,Medium,4.4,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,62,None,25,40,Hard,2.4,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,63,Dairy-Free,30,10,Hard,4.3,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,64,Vegan,20,10,Hard,4.3,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,65,Nut-Free,30,30,Medium,4.6,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,66,Gluten-Free,30,50,Medium,4.1,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,67,Dairy-Free,20,20,Hard,4.5,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,68,Vegan,20,30,Easy,3.0,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,69,None,10,10,Hard,4.9,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,70,Nut-Free,20,30,Easy,1.2,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,71,Gluten-Free,10,30,Medium,4.0,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,72,None,15,40,Hard,2.0,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,73,Gluten-Free,15,20,Medium,2.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,74,Dairy-Free,30,50,Hard,2.9,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,75,Gluten-Free,15,10,Medium,4.5,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,76,Nut-Free,15,40,Easy,2.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,77,Nut-Free,10,50,Hard,2.6,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,78,Gluten-Free,25,20,Easy,4.0,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,79,Nut-Free,15,20,Hard,2.1,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,80,Gluten-Free,15,20,Easy,3.5,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,81,Gluten-Free,20,30,Easy,2.3,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,82,Gluten-Free,10,40,Medium,2.7,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,83,Vegan,15,20,Medium,2.4,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,84,Vegan,10,20,Medium,4.5,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,85,None,10,40,Easy,1.7,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,86,Vegan,20,10,Medium,1.3,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,87,Nut-Free,25,50,Easy,4.4,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,88,Gluten-Free,30,30,Medium,3.3,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,89,Vegan,20,20,Medium,4.9,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,90,Nut-Free,25,10,Easy,3.7,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,91,Gluten-Free,15,10,Easy,1.1,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,92,Vegan,25,20,Easy,5.0,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,93,Gluten-Free,10,50,Easy,3.8,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,94,Nut-Free,30,40,Medium,2.5,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,95,Nut-Free,20,30,Easy,1.2,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,96,Nut-Free,20,20,Easy,2.3,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,97,Nut-Free,30,30,Medium,3.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,98,Nut-Free,10,10,Easy,4.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,99,Dairy-Free,15,30,Hard,3.1,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,100,Nut-Free,30,30,Medium,4.6,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,101,None,10,50,Hard,3.4,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,102,Nut-Free,25,50,Hard,1.7,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,103,Nut-Free,25,20,Easy,2.1,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,104,Dairy-Free,25,50,Medium,2.8,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,105,Dairy-Free,10,10,Medium,4.4,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,106,Vegan,15,50,Hard,4.0,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,107,Nut-Free,30,10,Easy,2.6,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,108,Vegan,20,50,Medium,2.9,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,109,Vegan,15,10,Easy,1.4,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,110,Vegan,15,10,Hard,1.3,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,111,None,20,30,Easy,1.2,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,112,None,30,30,Easy,1.9,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,113,Dairy-Free,25,50,Hard,3.5,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,114,None,20,20,Hard,2.6,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,115,None,20,50,Easy,2.7,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,116,None,30,40,Easy,2.6,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,117,Dairy-Free,30,40,Hard,2.9,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,118,Dairy-Free,15,40,Hard,3.8,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,119,None,20,10,Medium,2.7,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,120,Dairy-Free,15,50,Hard,1.1,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,121,Gluten-Free,15,30,Medium,4.0,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,122,Vegan,10,10,Easy,4.8,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,123,Nut-Free,20,50,Medium,3.0,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,124,Dairy-Free,10,20,Medium,4.6,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,125,Vegan,15,10,Medium,4.8,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,126,Nut-Free,10,50,Medium,3.3,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,127,Vegan,30,10,Easy,2.2,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,128,Vegan,20,30,Medium,3.4,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,129,Nut-Free,15,50,Medium,3.9,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,130,Gluten-Free,15,20,Medium,1.1,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,131,Dairy-Free,20,50,Hard,1.2,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,132,Gluten-Free,15,30,Medium,3.2,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,133,Nut-Free,25,30,Hard,1.4,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,134,Dairy-Free,30,50,Easy,1.5,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,135,Dairy-Free,30,30,Medium,4.6,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,136,Dairy-Free,25,40,Medium,2.3,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,137,Dairy-Free,10,30,Easy,4.2,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,138,Vegan,25,20,Easy,1.6,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,139,Dairy-Free,20,50,Medium,4.3,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,140,None,25,20,Medium,2.6,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,141,Gluten-Free,25,30,Hard,1.6,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,142,None,25,50,Easy,2.7,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,143,Dairy-Free,20,50,Easy,2.8,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,144,Nut-Free,20,50,Medium,1.4,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,145,Nut-Free,20,30,Hard,4.4,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,146,Gluten-Free,20,30,Easy,2.8,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,147,Gluten-Free,30,10,Easy,1.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,148,Nut-Free,20,10,Easy,1.3,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,149,Nut-Free,30,20,Medium,4.2,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,150,None,10,30,Hard,1.4,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,151,Vegan,25,40,Hard,2.0,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,152,Vegan,30,50,Easy,1.2,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,153,Gluten-Free,25,20,Medium,4.7,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,154,Gluten-Free,15,50,Hard,1.9,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,155,Dairy-Free,20,10,Hard,1.6,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,156,Vegan,10,30,Hard,3.0,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,157,None,30,20,Hard,2.2,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,158,Dairy-Free,20,30,Easy,1.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,159,Nut-Free,20,40,Hard,3.3,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,160,None,25,40,Hard,3.4,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,161,Vegan,25,10,Medium,1.6,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,162,Dairy-Free,20,20,Medium,3.9,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,163,None,20,20,Easy,2.6,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,164,Vegan,10,50,Easy,2.3,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,165,Vegan,10,10,Easy,4.9,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,166,Vegan,25,10,Medium,3.1,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,167,None,20,10,Medium,4.7,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,168,Dairy-Free,10,50,Easy,2.1,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,169,Vegan,30,20,Easy,4.8,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,170,Gluten-Free,15,20,Medium,2.6,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,171,Vegan,15,10,Hard,2.4,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,172,Vegan,30,30,Medium,1.6,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,173,Dairy-Free,15,10,Hard,2.1,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,174,Nut-Free,25,30,Hard,3.4,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,175,Gluten-Free,30,10,Hard,3.1,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,176,Vegan,30,50,Hard,2.9,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,177,None,10,50,Medium,1.2,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,178,Gluten-Free,30,40,Medium,2.8,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,179,Nut-Free,20,30,Medium,2.2,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,180,Vegan,20,40,Easy,1.2,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,181,None,30,30,Hard,1.4,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,182,Gluten-Free,20,20,Hard,4.7,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,183,None,20,30,Medium,3.8,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,184,None,15,10,Easy,1.3,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,185,Vegan,30,10,Hard,4.2,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,186,Nut-Free,20,50,Easy,1.9,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,187,None,20,40,Easy,1.7,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,188,Nut-Free,30,50,Hard,1.9,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,189,None,20,50,Easy,2.6,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,190,Nut-Free,15,50,Medium,2.0,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,191,Nut-Free,25,20,Medium,3.0,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,192,Gluten-Free,30,20,Medium,1.4,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,193,None,10,50,Hard,2.6,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,194,Vegan,30,10,Hard,4.4,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,195,Dairy-Free,20,50,Hard,4.1,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,196,Vegan,10,50,Easy,3.6,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,197,Dairy-Free,15,50,Medium,1.9,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,198,Dairy-Free,30,50,Easy,1.6,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,199,None,10,50,Hard,4.6,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,200,Gluten-Free,25,50,Easy,1.2,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,201,Nut-Free,30,30,Medium,4.6,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,202,Nut-Free,10,10,Medium,3.7,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,203,Gluten-Free,25,20,Medium,3.7,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,204,Vegan,25,30,Easy,2.5,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,205,Gluten-Free,20,20,Hard,4.5,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,206,Gluten-Free,20,30,Medium,3.0,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,207,Gluten-Free,10,50,Hard,4.5,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,208,Dairy-Free,25,30,Medium,2.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,209,Vegan,30,40,Hard,2.7,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,210,Nut-Free,10,10,Easy,1.7,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,211,Dairy-Free,25,30,Easy,2.3,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,212,Gluten-Free,10,20,Easy,2.1,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,213,Vegan,10,30,Easy,1.2,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,214,None,15,40,Easy,4.7,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,215,None,30,30,Easy,3.8,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,216,Vegan,30,10,Easy,4.6,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,217,Vegan,25,20,Medium,4.4,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,218,Dairy-Free,10,10,Medium,1.0,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,219,Vegan,15,10,Hard,2.7,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,220,Vegan,15,40,Hard,2.7,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,221,None,15,20,Easy,2.0,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,222,None,15,30,Hard,1.2,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,223,None,30,20,Hard,4.3,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,224,Dairy-Free,20,50,Hard,1.2,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,225,Nut-Free,30,40,Hard,3.7,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,226,Nut-Free,15,20,Medium,4.5,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,227,Gluten-Free,30,10,Easy,2.9,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,228,None,20,30,Easy,4.4,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,229,Vegan,10,10,Hard,2.6,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,230,Nut-Free,10,50,Medium,2.9,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,231,Vegan,30,20,Easy,3.4,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,232,Dairy-Free,10,30,Easy,1.1,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,233,Vegan,30,10,Easy,2.7,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,234,Gluten-Free,25,20,Hard,4.7,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,235,Dairy-Free,15,50,Hard,3.3,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,236,None,30,30,Medium,1.8,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,237,Dairy-Free,20,50,Medium,4.5,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,238,Nut-Free,15,30,Easy,3.8,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,239,Gluten-Free,10,30,Hard,4.3,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,240,Gluten-Free,15,40,Hard,4.0,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,241,Dairy-Free,25,50,Hard,3.0,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,242,Nut-Free,15,20,Medium,2.1,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,243,Gluten-Free,20,30,Easy,4.6,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,244,Vegan,15,30,Hard,2.2,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,245,Gluten-Free,30,50,Hard,3.2,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,246,Gluten-Free,25,10,Hard,4.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,247,Dairy-Free,25,10,Hard,4.2,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,248,Dairy-Free,10,20,Medium,2.4,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,249,Dairy-Free,15,20,Hard,3.2,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,250,Vegan,10,50,Easy,2.8,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,251,None,20,30,Easy,3.8,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,252,None,20,10,Medium,3.8,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,253,Dairy-Free,25,10,Hard,3.3,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,254,Nut-Free,15,40,Easy,3.7,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,255,Gluten-Free,15,10,Easy,3.0,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,256,Vegan,10,30,Medium,4.2,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,257,Nut-Free,25,10,Hard,1.2,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,258,None,15,40,Medium,2.7,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,259,Nut-Free,25,50,Medium,4.1,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,260,Vegan,25,40,Medium,2.7,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,261,Vegan,30,20,Easy,2.0,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,262,Vegan,25,50,Hard,1.6,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,263,Gluten-Free,10,50,Hard,4.6,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,264,Nut-Free,15,50,Medium,2.7,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,265,Gluten-Free,20,20,Easy,2.7,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,266,Dairy-Free,20,20,Medium,4.0,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,267,Nut-Free,15,10,Hard,3.6,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,268,Gluten-Free,25,30,Easy,3.2,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,269,Vegan,20,20,Easy,3.1,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,270,None,30,50,Hard,4.6,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,271,Gluten-Free,10,10,Easy,3.1,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,272,Vegan,20,30,Easy,1.4,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,273,Gluten-Free,15,50,Easy,3.8,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,274,Dairy-Free,25,30,Hard,3.8,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,275,None,20,10,Hard,4.6,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,276,Vegan,10,40,Hard,2.1,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,277,Nut-Free,30,30,Medium,4.0,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,278,None,20,10,Hard,2.7,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,279,Vegan,20,30,Easy,2.2,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,280,Gluten-Free,20,40,Hard,2.6,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,281,Nut-Free,25,10,Easy,1.9,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,282,None,25,40,Medium,3.9,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,283,Gluten-Free,10,20,Hard,2.7,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,284,Gluten-Free,30,20,Hard,2.9,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,285,Dairy-Free,20,50,Medium,4.6,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,286,Dairy-Free,20,30,Hard,3.2,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,287,Nut-Free,25,40,Medium,3.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,288,Nut-Free,30,10,Hard,4.9,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,289,Gluten-Free,15,20,Easy,3.6,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,290,Dairy-Free,25,50,Hard,2.8,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,291,None,10,20,Medium,4.1,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,292,Gluten-Free,15,10,Easy,4.1,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,293,Gluten-Free,15,30,Medium,2.6,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,294,Vegan,10,10,Hard,4.3,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,295,Dairy-Free,30,20,Hard,2.3,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,296,Gluten-Free,30,40,Hard,2.4,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,297,Nut-Free,30,50,Easy,4.7,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,298,Vegan,30,30,Hard,4.9,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,299,Vegan,15,40,Easy,3.2,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,300,Dairy-Free,10,20,Medium,2.4,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,301,Dairy-Free,10,10,Hard,3.7,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,302,Gluten-Free,25,30,Easy,3.6,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,303,Vegan,20,20,Hard,1.4,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,304,Vegan,10,40,Easy,4.0,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,305,Gluten-Free,20,50,Easy,4.4,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,306,Gluten-Free,20,10,Hard,4.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,307,Gluten-Free,20,10,Easy,3.9,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,308,Gluten-Free,20,40,Medium,2.7,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,309,Dairy-Free,25,50,Medium,1.8,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,310,Dairy-Free,10,30,Easy,2.5,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,311,Gluten-Free,20,20,Medium,2.8,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,312,Vegan,15,10,Easy,1.3,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,313,Nut-Free,15,50,Medium,3.5,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,314,Vegan,10,50,Medium,3.8,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,315,Vegan,25,10,Easy,4.3,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,316,Gluten-Free,20,10,Medium,4.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,317,Dairy-Free,30,20,Medium,4.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,318,Nut-Free,10,50,Hard,4.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,319,None,30,10,Hard,2.3,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,320,Vegan,10,10,Hard,2.6,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,321,Vegan,10,50,Medium,2.1,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,322,None,10,40,Hard,3.8,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,323,Nut-Free,30,10,Medium,3.0,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,324,None,15,30,Hard,4.2,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,325,Gluten-Free,20,40,Easy,4.5,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,326,Gluten-Free,10,20,Hard,1.9,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,327,Dairy-Free,20,40,Hard,1.7,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,328,None,15,40,Medium,2.0,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,329,Gluten-Free,25,50,Easy,2.6,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,330,Nut-Free,30,20,Hard,1.5,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,331,Nut-Free,15,30,Medium,1.1,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,332,Gluten-Free,30,50,Easy,2.7,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,333,Gluten-Free,25,50,Hard,4.6,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,334,Vegan,20,10,Hard,3.5,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,335,Gluten-Free,30,50,Easy,2.6,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,336,Gluten-Free,25,10,Hard,4.4,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,337,Gluten-Free,25,10,Hard,3.4,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,338,Vegan,30,50,Medium,4.6,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,339,Dairy-Free,20,50,Medium,4.0,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,340,Gluten-Free,25,30,Hard,2.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,341,Nut-Free,25,40,Easy,3.5,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,342,None,10,50,Hard,2.9,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,343,None,20,50,Medium,4.8,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,344,Gluten-Free,15,50,Easy,1.2,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,345,Nut-Free,30,30,Easy,2.4,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,346,Nut-Free,30,40,Hard,4.8,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,347,Nut-Free,20,10,Hard,3.8,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,348,Vegan,30,10,Easy,4.5,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,349,Dairy-Free,25,40,Hard,4.7,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,350,Dairy-Free,25,30,Hard,3.3,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,351,Gluten-Free,15,10,Hard,1.0,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,352,Vegan,10,10,Easy,1.2,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,353,None,30,30,Hard,1.8,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,354,Gluten-Free,10,20,Easy,4.2,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,355,Dairy-Free,15,10,Medium,4.9,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,356,Vegan,20,20,Hard,1.1,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,357,None,30,50,Medium,3.3,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,358,Gluten-Free,20,30,Medium,4.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,359,Gluten-Free,30,20,Medium,1.1,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,360,Gluten-Free,10,20,Easy,4.9,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,361,Nut-Free,25,30,Easy,3.8,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,362,Vegan,15,20,Medium,3.5,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,363,Vegan,25,50,Easy,3.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,364,Gluten-Free,10,20,Easy,1.6,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,365,Vegan,10,10,Easy,2.2,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,366,Dairy-Free,25,40,Hard,4.6,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,367,Gluten-Free,25,10,Hard,3.3,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,368,None,10,50,Easy,1.9,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,369,Gluten-Free,15,10,Easy,1.9,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,370,Dairy-Free,25,40,Hard,2.6,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,371,Gluten-Free,25,10,Medium,3.5,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,372,Dairy-Free,10,40,Medium,4.6,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,373,None,30,50,Medium,2.4,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,374,Dairy-Free,10,10,Hard,3.3,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,375,Nut-Free,30,20,Hard,3.4,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,376,Gluten-Free,10,10,Medium,1.8,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,377,Gluten-Free,25,50,Easy,3.7,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,378,Nut-Free,15,40,Hard,2.2,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,379,Dairy-Free,20,20,Hard,5.0,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,380,Dairy-Free,10,50,Hard,4.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,381,Nut-Free,20,30,Easy,2.9,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,382,Gluten-Free,30,30,Medium,1.6,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,383,Gluten-Free,30,10,Easy,3.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,384,Gluten-Free,30,20,Medium,4.5,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,385,Gluten-Free,30,20,Hard,1.3,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,386,None,10,10,Easy,2.2,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,387,Vegan,15,10,Easy,4.6,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,388,Dairy-Free,25,10,Hard,4.9,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,389,Dairy-Free,20,40,Medium,2.0,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,390,Gluten-Free,30,50,Medium,2.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,391,None,20,30,Hard,1.7,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,392,Gluten-Free,20,50,Medium,2.8,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,393,Dairy-Free,20,20,Medium,1.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,394,None,30,30,Medium,2.6,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,395,Vegan,10,20,Easy,1.2,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,396,Dairy-Free,20,40,Easy,1.7,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,397,Vegan,20,20,Easy,2.4,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,398,Dairy-Free,10,40,Medium,2.6,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,399,Dairy-Free,25,10,Hard,3.7,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,400,Gluten-Free,15,10,Easy,2.9,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,401,Nut-Free,10,10,Medium,2.2,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,402,Vegan,25,50,Easy,2.8,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,403,Gluten-Free,15,50,Easy,2.2,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,404,Gluten-Free,25,10,Medium,2.2,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,405,Dairy-Free,15,20,Medium,3.8,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,406,Vegan,25,20,Hard,1.5,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,407,None,20,20,Hard,3.2,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,408,Dairy-Free,25,40,Easy,3.8,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,409,Dairy-Free,25,20,Hard,3.0,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,410,Gluten-Free,10,20,Easy,1.5,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,411,Nut-Free,30,50,Hard,2.2,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,412,Dairy-Free,15,20,Easy,2.6,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,413,Nut-Free,10,30,Easy,1.9,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,414,Nut-Free,20,30,Hard,3.9,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,415,Vegan,30,10,Hard,3.2,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,416,Gluten-Free,15,30,Medium,3.5,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,417,Vegan,20,50,Hard,4.4,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,418,Gluten-Free,30,50,Easy,4.4,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,419,None,30,40,Hard,4.2,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,420,Dairy-Free,30,50,Medium,1.1,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,421,None,10,50,Hard,4.5,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,422,None,30,10,Easy,2.5,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,423,Gluten-Free,20,40,Easy,5.0,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,424,Dairy-Free,15,20,Easy,1.6,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,425,Dairy-Free,30,50,Medium,3.6,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,426,Dairy-Free,30,50,Medium,1.4,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,427,None,25,10,Medium,4.1,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,428,Nut-Free,10,30,Medium,2.5,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,429,Gluten-Free,10,50,Easy,2.2,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,430,Nut-Free,20,50,Hard,2.8,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,431,Vegan,15,40,Easy,4.0,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,432,Nut-Free,20,30,Medium,3.5,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,433,Vegan,25,40,Easy,2.9,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,434,Vegan,20,10,Hard,1.1,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,435,None,25,40,Medium,4.6,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,436,Dairy-Free,15,50,Hard,4.9,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,437,Gluten-Free,10,20,Medium,5.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,438,Gluten-Free,30,10,Easy,2.9,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,439,None,25,10,Hard,2.9,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,440,None,25,10,Medium,2.9,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,441,Nut-Free,30,50,Hard,1.6,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,442,None,20,20,Medium,2.8,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,443,Dairy-Free,10,10,Medium,3.1,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,444,Gluten-Free,25,50,Hard,4.1,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,445,Nut-Free,30,20,Medium,2.6,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,446,Vegan,30,30,Hard,1.0,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,447,Gluten-Free,25,30,Hard,1.6,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,448,Vegan,30,40,Hard,1.3,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,449,Nut-Free,15,10,Easy,1.5,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,450,Dairy-Free,10,40,Easy,1.1,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,451,None,10,30,Easy,3.2,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,452,Vegan,15,30,Easy,2.8,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,453,Dairy-Free,20,10,Easy,1.1,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,454,Gluten-Free,20,10,Medium,4.7,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,455,Vegan,10,20,Medium,4.0,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,456,Dairy-Free,25,10,Hard,1.2,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,457,Nut-Free,10,40,Easy,1.1,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,458,Gluten-Free,20,30,Medium,2.3,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,459,Nut-Free,20,30,Easy,1.4,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,460,Gluten-Free,25,50,Hard,1.4,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,461,Gluten-Free,10,10,Easy,4.3,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,462,Gluten-Free,30,10,Easy,4.4,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,463,Nut-Free,25,20,Hard,3.9,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,464,Gluten-Free,25,30,Easy,1.9,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,465,Gluten-Free,20,10,Hard,5.0,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,466,Vegan,20,30,Hard,4.0,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,467,Gluten-Free,10,50,Hard,4.8,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,468,None,20,30,Hard,1.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,469,Gluten-Free,20,20,Medium,2.5,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,470,Nut-Free,25,40,Easy,3.9,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,471,Nut-Free,25,50,Easy,2.4,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,472,None,30,10,Hard,1.2,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,473,Dairy-Free,25,50,Medium,2.3,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,474,Nut-Free,30,10,Easy,2.1,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,475,Dairy-Free,10,50,Easy,1.4,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,476,Nut-Free,15,20,Medium,4.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,477,Vegan,25,50,Medium,1.3,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,478,Dairy-Free,15,40,Hard,3.5,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,479,Vegan,15,40,Hard,3.2,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,480,Gluten-Free,20,40,Easy,4.0,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,481,Dairy-Free,20,50,Hard,1.6,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,482,Nut-Free,30,20,Hard,4.5,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,483,Gluten-Free,20,30,Hard,1.5,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,484,Nut-Free,30,40,Easy,2.5,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,485,Dairy-Free,30,30,Easy,1.1,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,486,Dairy-Free,15,10,Easy,2.0,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,487,None,10,20,Easy,2.8,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,488,Dairy-Free,15,40,Medium,4.1,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,489,Dairy-Free,15,20,Hard,2.4,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,490,None,10,20,Easy,1.8,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,491,Nut-Free,20,40,Easy,4.9,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,492,Nut-Free,30,20,Hard,3.7,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,493,Vegan,30,10,Medium,1.2,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,494,None,20,50,Medium,2.8,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,495,Gluten-Free,15,50,Hard,4.2,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,496,Dairy-Free,25,30,Hard,3.1,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,497,Gluten-Free,15,20,Easy,3.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,498,Vegan,10,50,Hard,4.6,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,499,Gluten-Free,20,30,Medium,1.5,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,500,Gluten-Free,30,40,Medium,1.8,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,501,Gluten-Free,10,20,Easy,4.7,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,502,Dairy-Free,30,10,Hard,4.3,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,503,Nut-Free,30,40,Medium,3.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,504,Gluten-Free,25,50,Medium,5.0,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,505,Dairy-Free,10,50,Hard,1.0,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,506,Nut-Free,25,10,Hard,4.8,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,507,Gluten-Free,30,10,Hard,1.9,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,508,Vegan,10,40,Medium,2.7,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,509,None,20,20,Medium,1.1,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,510,Gluten-Free,25,20,Hard,3.7,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,511,Dairy-Free,30,10,Medium,2.5,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,512,Dairy-Free,15,40,Medium,2.1,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,513,Gluten-Free,25,10,Easy,4.0,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,514,None,15,40,Medium,3.2,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,515,None,30,20,Hard,2.9,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,516,Dairy-Free,25,30,Easy,1.8,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,517,Gluten-Free,10,50,Medium,1.5,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,518,Nut-Free,25,20,Hard,3.8,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,519,Nut-Free,25,10,Medium,1.2,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,520,Vegan,15,40,Easy,1.2,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,521,Vegan,20,50,Easy,2.7,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,522,Nut-Free,30,10,Medium,3.7,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,523,Vegan,15,30,Medium,4.0,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,524,Gluten-Free,10,10,Medium,2.2,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,525,Gluten-Free,20,30,Medium,3.0,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,526,Gluten-Free,20,50,Medium,3.7,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,527,Dairy-Free,25,30,Hard,1.8,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,528,Dairy-Free,15,50,Hard,4.0,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,529,None,20,30,Medium,1.9,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,530,Dairy-Free,10,10,Hard,1.6,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,531,Vegan,15,20,Hard,2.9,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,532,None,15,30,Easy,4.5,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,533,Gluten-Free,30,10,Easy,2.6,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,534,Gluten-Free,25,30,Medium,1.9,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,535,Gluten-Free,25,10,Easy,5.0,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,536,Vegan,30,10,Hard,3.3,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,537,Dairy-Free,30,50,Medium,1.9,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,538,Gluten-Free,10,10,Medium,1.2,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,539,Gluten-Free,25,20,Easy,2.8,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,540,Vegan,20,50,Easy,2.4,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,541,Dairy-Free,20,50,Hard,4.4,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,542,Dairy-Free,30,10,Hard,2.7,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,543,Vegan,30,20,Hard,2.4,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,544,Dairy-Free,20,50,Easy,3.3,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,545,None,10,30,Easy,2.7,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,546,Nut-Free,25,20,Easy,3.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,547,Nut-Free,10,50,Easy,3.9,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,548,Dairy-Free,15,40,Hard,1.7,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,549,Vegan,20,40,Hard,1.0,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,550,Dairy-Free,15,50,Medium,1.7,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,551,Vegan,10,50,Easy,1.5,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,552,Vegan,30,20,Hard,4.8,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,553,Vegan,15,50,Medium,3.9,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,554,None,30,30,Hard,1.6,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,555,Vegan,10,50,Medium,4.6,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,556,Gluten-Free,10,30,Hard,1.8,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,557,None,30,50,Hard,3.7,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,558,None,25,50,Medium,2.5,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,559,Vegan,30,10,Easy,4.6,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,560,Nut-Free,20,10,Easy,2.7,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,561,Vegan,15,40,Medium,2.0,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,562,Nut-Free,25,30,Medium,2.3,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,563,Gluten-Free,25,30,Medium,4.6,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,564,Gluten-Free,15,10,Easy,4.3,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,565,Nut-Free,10,10,Hard,1.7,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,566,Nut-Free,15,10,Hard,2.8,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,567,Nut-Free,30,50,Hard,4.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,568,Dairy-Free,30,30,Hard,3.0,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,569,Dairy-Free,10,30,Hard,4.3,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,570,None,25,10,Medium,2.0,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,571,Nut-Free,20,10,Hard,2.2,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,572,Vegan,20,40,Easy,2.5,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,573,Dairy-Free,20,20,Hard,3.9,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,574,Vegan,15,20,Hard,4.8,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,575,Vegan,25,50,Easy,3.0,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,576,Vegan,10,10,Easy,1.0,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,577,None,10,40,Medium,3.2,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,578,Gluten-Free,20,30,Hard,4.1,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,579,Nut-Free,30,20,Easy,1.4,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,580,Gluten-Free,15,40,Hard,1.6,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,581,Gluten-Free,20,20,Medium,3.3,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,582,Nut-Free,25,50,Easy,2.3,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,583,Nut-Free,15,50,Medium,4.8,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,584,Dairy-Free,20,10,Hard,3.5,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,585,Nut-Free,25,40,Hard,2.3,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,586,Vegan,10,40,Medium,4.0,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,587,Dairy-Free,25,40,Hard,4.8,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,588,None,20,10,Easy,3.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,589,None,25,40,Hard,4.1,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,590,Nut-Free,10,30,Easy,1.0,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,591,Dairy-Free,20,50,Easy,3.6,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,592,Nut-Free,10,20,Easy,2.6,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,593,Gluten-Free,15,50,Easy,4.2,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,594,Vegan,30,30,Hard,2.8,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,595,Dairy-Free,30,30,Medium,2.3,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,596,Dairy-Free,20,10,Medium,1.4,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,597,None,15,50,Hard,2.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,598,None,10,10,Hard,1.8,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,599,Dairy-Free,15,30,Medium,4.1,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,600,Vegan,30,50,Hard,2.1,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,601,Gluten-Free,20,20,Hard,2.7,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,602,Nut-Free,20,30,Easy,4.6,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,603,None,30,10,Hard,2.3,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,604,None,10,30,Easy,2.6,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,605,Vegan,25,30,Medium,4.7,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,606,None,25,10,Hard,4.6,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,607,Nut-Free,30,50,Medium,3.0,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,608,Vegan,20,50,Easy,1.3,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,609,Gluten-Free,10,30,Easy,1.8,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,610,Nut-Free,20,20,Hard,2.4,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,611,Gluten-Free,15,20,Medium,4.4,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,612,Nut-Free,25,50,Easy,4.6,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,613,Vegan,15,30,Medium,2.9,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,614,Dairy-Free,25,50,Hard,1.7,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,615,Vegan,20,50,Easy,2.3,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,616,Vegan,10,30,Hard,1.9,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,617,Gluten-Free,15,20,Medium,2.8,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,618,Nut-Free,30,50,Easy,3.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,619,Vegan,20,20,Hard,3.5,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,620,Gluten-Free,15,40,Hard,1.9,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,621,None,30,50,Hard,3.9,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,622,Vegan,10,10,Hard,4.1,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,623,Gluten-Free,20,40,Medium,3.2,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,624,Nut-Free,20,40,Hard,3.2,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,625,Dairy-Free,20,10,Hard,3.0,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,626,Gluten-Free,10,30,Hard,2.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,627,Gluten-Free,30,40,Hard,4.7,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,628,Dairy-Free,25,20,Hard,2.6,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,629,Nut-Free,30,10,Easy,1.2,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,630,Gluten-Free,30,20,Hard,4.6,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,631,Vegan,25,20,Easy,1.9,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,632,Dairy-Free,25,10,Easy,3.9,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,633,None,25,30,Hard,1.3,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,634,Vegan,10,50,Easy,1.3,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,635,None,10,20,Hard,2.5,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,636,Dairy-Free,15,30,Easy,4.5,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,637,None,25,40,Hard,3.7,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,638,Nut-Free,10,40,Easy,1.9,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,639,Dairy-Free,20,30,Easy,2.1,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,640,Vegan,20,30,Hard,3.9,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,641,Vegan,30,10,Hard,2.9,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,642,Dairy-Free,15,40,Hard,3.6,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,643,Gluten-Free,15,40,Medium,4.4,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,644,None,15,30,Easy,3.6,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,645,None,20,20,Hard,1.3,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,646,Nut-Free,20,20,Hard,4.2,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,647,None,30,20,Easy,4.5,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,648,Nut-Free,30,40,Hard,1.1,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,649,Nut-Free,30,10,Hard,1.8,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,650,Vegan,15,50,Easy,1.4,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,651,Gluten-Free,20,50,Hard,1.3,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,652,Nut-Free,20,50,Easy,3.3,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,653,Vegan,30,50,Hard,4.2,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,654,None,30,40,Hard,2.4,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,655,None,15,10,Medium,1.4,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,656,Vegan,30,40,Hard,2.4,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,657,Nut-Free,10,40,Easy,3.4,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,658,Gluten-Free,15,10,Medium,3.2,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,659,Nut-Free,30,50,Medium,2.3,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,660,Gluten-Free,20,50,Medium,3.3,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,661,Vegan,15,20,Medium,1.1,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,662,None,30,50,Hard,2.2,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,663,Gluten-Free,15,30,Hard,1.0,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,664,Vegan,25,50,Hard,3.9,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,665,Nut-Free,30,40,Medium,1.2,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,666,Gluten-Free,30,30,Medium,1.7,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,667,Gluten-Free,30,20,Hard,4.4,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,668,Dairy-Free,20,40,Easy,4.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,669,Dairy-Free,20,40,Easy,3.2,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,670,Nut-Free,15,10,Easy,1.9,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,671,None,30,20,Hard,1.1,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,672,Vegan,30,50,Medium,1.8,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,673,None,15,20,Easy,4.3,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,674,None,30,20,Medium,2.3,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,675,Vegan,25,30,Easy,3.4,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,676,Vegan,20,40,Easy,3.5,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,677,Vegan,20,10,Hard,2.9,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,678,None,30,30,Hard,4.8,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,679,Gluten-Free,15,40,Easy,4.4,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,680,None,25,20,Medium,1.3,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,681,None,15,10,Hard,4.8,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,682,Gluten-Free,15,20,Medium,4.0,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,683,Vegan,10,30,Easy,2.7,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,684,Gluten-Free,25,30,Easy,1.5,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,685,Dairy-Free,30,30,Medium,1.9,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,686,Gluten-Free,25,50,Medium,2.4,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,687,Vegan,10,20,Medium,2.0,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,688,Dairy-Free,15,40,Medium,3.2,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,689,Dairy-Free,15,20,Hard,4.8,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,690,Nut-Free,25,50,Easy,4.5,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,691,None,30,20,Hard,2.4,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,692,Gluten-Free,25,30,Medium,2.4,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,693,Gluten-Free,20,50,Medium,4.2,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,694,None,30,20,Hard,1.0,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,695,Vegan,10,10,Medium,2.2,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,696,Nut-Free,25,20,Medium,2.9,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,697,Nut-Free,30,50,Medium,3.4,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,698,Vegan,15,40,Medium,3.6,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,699,Gluten-Free,20,50,Easy,2.5,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,700,Dairy-Free,10,10,Medium,4.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,701,Dairy-Free,25,10,Medium,3.4,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,702,Vegan,10,10,Easy,3.0,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,703,None,20,30,Easy,3.4,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,704,Dairy-Free,25,30,Hard,1.7,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,705,Gluten-Free,20,20,Easy,4.2,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,706,Gluten-Free,25,50,Easy,3.2,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,707,Nut-Free,10,10,Easy,3.9,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,708,None,20,20,Easy,1.6,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,709,Nut-Free,10,50,Easy,4.5,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,710,Vegan,15,50,Easy,3.7,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,711,Nut-Free,15,10,Medium,4.1,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,712,Nut-Free,10,50,Medium,2.4,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,713,Gluten-Free,10,20,Easy,1.8,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,714,Nut-Free,25,50,Medium,3.9,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,715,Nut-Free,10,30,Hard,4.9,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,716,Dairy-Free,10,10,Easy,1.2,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,717,Gluten-Free,20,10,Easy,1.1,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,718,Vegan,15,40,Easy,4.4,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,719,Nut-Free,10,40,Medium,1.8,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,720,Vegan,20,40,Easy,3.8,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,721,Dairy-Free,30,10,Hard,1.2,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,722,Vegan,15,40,Hard,4.3,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,723,Dairy-Free,20,30,Medium,4.1,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,724,Gluten-Free,10,50,Medium,1.4,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,725,Vegan,20,30,Medium,2.1,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,726,None,25,10,Medium,2.0,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,727,Dairy-Free,20,20,Easy,3.9,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,728,Nut-Free,15,10,Medium,1.3,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,729,None,30,40,Easy,2.2,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,730,Nut-Free,10,40,Hard,4.7,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,731,Gluten-Free,25,30,Hard,1.6,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,732,Gluten-Free,20,20,Hard,2.2,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,733,Vegan,10,20,Easy,1.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,734,Dairy-Free,30,20,Hard,3.3,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,735,Gluten-Free,10,50,Medium,2.0,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,736,Nut-Free,15,30,Medium,1.7,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,737,Gluten-Free,30,10,Medium,2.7,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,738,Gluten-Free,15,10,Hard,1.2,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,739,Gluten-Free,20,40,Medium,3.5,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,740,Nut-Free,10,20,Easy,1.7,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,741,Dairy-Free,25,20,Hard,1.5,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,742,Gluten-Free,15,10,Medium,1.6,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,743,Nut-Free,15,40,Medium,2.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,744,None,30,40,Hard,2.1,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,745,Dairy-Free,30,10,Easy,3.8,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,746,Gluten-Free,25,30,Medium,3.9,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,747,Nut-Free,25,30,Hard,2.5,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,748,Dairy-Free,25,30,Hard,2.2,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,749,Nut-Free,25,40,Medium,4.5,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,750,None,20,50,Easy,3.6,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,751,Nut-Free,20,30,Hard,2.7,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,752,Dairy-Free,25,20,Hard,2.5,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,753,None,20,30,Hard,2.3,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,754,None,30,30,Medium,1.9,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,755,Gluten-Free,10,10,Medium,4.5,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,756,Vegan,10,20,Medium,4.5,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,757,Vegan,20,30,Easy,4.5,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,758,None,25,50,Easy,3.9,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,759,Vegan,25,40,Medium,4.9,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,760,Gluten-Free,15,50,Medium,4.1,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,761,Vegan,25,20,Easy,4.7,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,762,Nut-Free,20,30,Easy,3.1,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,763,Nut-Free,25,20,Easy,4.7,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,764,None,15,30,Easy,1.1,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,765,None,15,30,Hard,1.3,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,766,Dairy-Free,15,20,Easy,4.0,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,767,Nut-Free,30,40,Medium,2.8,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,768,Dairy-Free,25,30,Easy,3.7,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,769,Gluten-Free,25,20,Medium,4.8,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,770,Nut-Free,25,10,Easy,2.0,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,771,None,15,10,Medium,1.5,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,772,None,25,50,Hard,3.6,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,773,Nut-Free,30,40,Easy,3.4,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,774,None,25,40,Medium,4.5,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,775,Dairy-Free,30,20,Hard,3.3,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,776,Nut-Free,10,50,Easy,1.3,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,777,None,25,20,Easy,3.1,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,778,Dairy-Free,25,10,Hard,4.6,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,779,Gluten-Free,15,10,Hard,4.8,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,780,Dairy-Free,20,10,Hard,3.6,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,781,Gluten-Free,25,40,Easy,4.9,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,782,Nut-Free,10,20,Hard,2.6,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,783,Gluten-Free,30,10,Easy,3.4,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,784,Gluten-Free,30,30,Medium,1.4,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,785,None,10,50,Hard,4.8,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,786,Dairy-Free,25,30,Easy,4.9,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,787,Dairy-Free,15,20,Easy,1.2,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,788,Gluten-Free,10,30,Easy,1.5,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,789,None,20,50,Medium,4.4,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,790,Dairy-Free,15,10,Hard,2.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,791,Gluten-Free,25,40,Hard,4.7,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,792,None,10,50,Easy,1.9,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,793,None,25,40,Easy,3.6,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,794,Vegan,30,50,Hard,1.0,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,795,Dairy-Free,30,50,Easy,4.0,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,796,Dairy-Free,30,20,Easy,3.5,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,797,Vegan,30,30,Easy,1.5,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,798,Gluten-Free,15,20,Easy,1.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,799,Gluten-Free,30,20,Medium,4.4,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,800,Gluten-Free,20,10,Hard,4.0,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,801,None,10,10,Medium,4.1,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,802,Dairy-Free,20,50,Easy,2.5,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,803,Vegan,20,20,Hard,2.9,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,804,Dairy-Free,10,40,Medium,1.8,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,805,Vegan,15,10,Hard,3.3,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,806,Dairy-Free,25,10,Easy,3.5,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,807,Dairy-Free,20,20,Hard,1.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,808,Dairy-Free,20,50,Medium,3.6,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,809,Vegan,30,40,Hard,4.5,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,810,Nut-Free,10,50,Easy,2.4,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,811,None,25,40,Hard,1.1,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,812,Nut-Free,10,10,Hard,4.2,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,813,None,10,40,Easy,2.1,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,814,Gluten-Free,30,10,Hard,1.3,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,815,Dairy-Free,15,50,Easy,2.2,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,816,Vegan,30,20,Medium,4.0,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,817,Vegan,25,10,Easy,2.0,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,818,Gluten-Free,20,10,Medium,4.0,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,819,Dairy-Free,30,20,Medium,3.1,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,820,Gluten-Free,20,50,Medium,3.7,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,821,Nut-Free,20,30,Hard,4.4,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,822,Gluten-Free,20,10,Easy,4.3,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,823,Nut-Free,25,30,Easy,2.7,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,824,Nut-Free,20,50,Hard,2.6,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,825,Vegan,15,10,Easy,4.1,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,826,None,10,20,Easy,4.7,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,827,Dairy-Free,25,40,Hard,1.3,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,828,Gluten-Free,15,30,Easy,3.1,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,829,Gluten-Free,20,30,Hard,3.1,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,830,Nut-Free,10,30,Medium,2.0,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,831,Nut-Free,20,50,Medium,1.1,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,832,Gluten-Free,10,50,Hard,2.1,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,833,None,15,40,Hard,4.0,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,834,Nut-Free,30,50,Medium,1.8,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,835,None,20,30,Hard,3.9,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,836,Nut-Free,15,50,Medium,2.0,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,837,Nut-Free,20,30,Hard,3.5,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,838,Dairy-Free,25,40,Hard,2.8,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,839,Dairy-Free,30,10,Easy,3.3,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,840,Dairy-Free,30,40,Easy,1.4,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,841,None,25,20,Medium,5.0,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,842,Dairy-Free,25,10,Hard,4.0,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,843,Dairy-Free,25,10,Easy,2.3,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,844,Nut-Free,25,20,Medium,4.4,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,845,Gluten-Free,10,20,Medium,1.3,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,846,Dairy-Free,10,50,Medium,4.0,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,847,Dairy-Free,10,40,Medium,4.1,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,848,Gluten-Free,30,40,Hard,3.9,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,849,None,30,20,Easy,5.0,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,850,Vegan,25,20,Easy,3.8,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,851,None,30,10,Medium,1.1,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,852,None,15,30,Medium,1.2,4
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,853,Dairy-Free,30,50,Easy,3.9,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,854,None,25,20,Easy,1.9,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,855,Vegan,25,40,Medium,1.3,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,856,Gluten-Free,30,40,Easy,2.8,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,857,Vegan,30,40,Hard,2.5,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,858,Nut-Free,10,10,Hard,5.0,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,859,Dairy-Free,25,10,Medium,2.8,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,860,Vegan,10,20,Medium,3.5,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,861,Dairy-Free,20,40,Hard,4.3,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,862,None,15,30,Easy,2.3,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,863,Vegan,30,20,Medium,2.5,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,864,Nut-Free,10,50,Hard,1.1,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,865,Nut-Free,25,20,Medium,3.8,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,866,None,15,20,Easy,1.9,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,867,Vegan,10,50,Hard,2.8,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,868,Gluten-Free,15,10,Hard,3.4,1
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,869,Dairy-Free,10,30,Hard,1.5,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,870,Dairy-Free,30,10,Easy,1.3,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,871,Dairy-Free,20,40,Hard,3.5,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,872,Gluten-Free,15,10,Medium,1.1,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,873,Gluten-Free,25,10,Easy,2.8,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,874,Dairy-Free,10,40,Medium,4.6,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,875,Nut-Free,10,30,Hard,4.6,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,876,None,10,50,Medium,1.1,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,877,Dairy-Free,10,10,Medium,4.3,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,878,Dairy-Free,30,30,Medium,3.1,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,879,Vegan,10,40,Easy,3.0,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,880,Nut-Free,30,10,Medium,3.5,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,881,None,15,30,Medium,2.2,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,882,Vegan,15,10,Medium,4.7,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,883,Dairy-Free,20,20,Medium,2.7,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,884,Nut-Free,10,20,Medium,2.8,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,885,Dairy-Free,15,50,Medium,4.2,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,886,Nut-Free,15,30,Hard,1.3,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,887,Dairy-Free,10,20,Medium,2.1,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,888,Vegan,25,50,Easy,1.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,889,None,15,10,Medium,1.2,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,890,Vegan,25,30,Hard,4.0,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,891,None,15,30,Hard,2.1,6
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,892,Vegan,30,30,Medium,3.0,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,893,Nut-Free,10,10,Easy,2.5,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,894,Gluten-Free,30,50,Hard,4.0,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,895,None,30,50,Easy,1.5,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,896,Nut-Free,20,10,Hard,2.7,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,897,Vegan,25,40,Medium,1.8,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,898,Vegan,30,10,Hard,3.4,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,899,Gluten-Free,10,30,Easy,4.4,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,900,Gluten-Free,10,50,Easy,3.6,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,901,Gluten-Free,10,20,Easy,1.6,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,902,None,15,30,Easy,4.6,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,903,Nut-Free,25,20,Hard,1.9,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,904,None,25,10,Medium,1.2,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,905,Nut-Free,25,10,Easy,5.0,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,906,Gluten-Free,25,40,Medium,2.1,4
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,907,Dairy-Free,15,20,Hard,1.8,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,908,Dairy-Free,30,10,Easy,3.3,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,909,Vegan,30,50,Medium,3.7,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,910,Nut-Free,10,20,Easy,4.1,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,911,Gluten-Free,15,30,Easy,3.3,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,912,Dairy-Free,30,30,Medium,4.2,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,913,None,20,40,Hard,4.8,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,914,Vegan,10,10,Hard,2.1,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,915,None,15,10,Hard,4.8,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,916,None,20,50,Hard,2.1,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,917,Nut-Free,25,30,Easy,2.8,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,918,Nut-Free,15,10,Medium,1.2,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,919,None,20,20,Easy,4.8,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,920,Nut-Free,10,40,Medium,3.9,6
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,921,Gluten-Free,30,30,Easy,1.5,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,922,Nut-Free,10,20,Hard,1.8,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,923,Nut-Free,30,50,Hard,2.3,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,924,Dairy-Free,15,50,Medium,3.2,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,925,Nut-Free,20,20,Medium,1.5,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,926,Nut-Free,15,40,Medium,3.6,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,927,Gluten-Free,20,30,Medium,4.9,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,928,Vegan,15,20,Hard,3.0,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,929,Nut-Free,25,10,Medium,2.0,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,930,Gluten-Free,20,40,Hard,3.5,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,931,Dairy-Free,20,10,Hard,3.9,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,932,Dairy-Free,30,40,Hard,3.4,2
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,933,Nut-Free,30,40,Easy,2.0,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,934,Vegan,30,50,Medium,1.0,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,935,None,25,50,Easy,2.7,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,936,Gluten-Free,25,40,Hard,4.0,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,937,Nut-Free,25,20,Hard,3.1,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,938,Nut-Free,30,40,Hard,3.8,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,939,Vegan,20,10,Easy,4.8,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,940,Gluten-Free,15,50,Medium,4.8,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,941,None,20,30,Easy,3.1,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,942,Dairy-Free,10,50,Easy,3.9,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,943,Dairy-Free,15,20,Easy,3.3,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,944,None,30,20,Easy,3.7,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,945,Dairy-Free,30,50,Medium,2.2,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,946,Nut-Free,10,40,Easy,2.7,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,947,Dairy-Free,15,40,Medium,3.4,4
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,948,Dairy-Free,15,50,Hard,2.5,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,949,Dairy-Free,20,40,Medium,3.6,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,950,Vegan,30,40,Medium,4.4,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,951,Vegan,30,30,Medium,3.9,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,952,None,10,30,Medium,3.0,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,953,None,15,50,Easy,3.8,6
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,954,Dairy-Free,10,30,Hard,2.5,6
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,955,Nut-Free,30,40,Medium,4.1,2
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,956,None,30,20,Medium,2.8,1
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,957,Gluten-Free,20,30,Easy,4.9,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,958,Gluten-Free,15,50,Hard,3.8,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,959,Dairy-Free,10,20,Easy,1.5,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,960,Vegan,20,10,Hard,4.5,1
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,961,Vegan,25,40,Easy,2.4,1
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,962,None,10,40,Medium,4.0,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,963,Vegan,30,50,Medium,2.1,2
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,964,Vegan,15,20,Medium,4.6,4
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,965,Dairy-Free,15,50,Easy,1.5,4
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,966,Nut-Free,30,30,Medium,1.1,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,967,None,20,40,Easy,1.8,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,968,None,15,50,Hard,1.7,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,969,None,20,50,Medium,3.6,6
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,970,Dairy-Free,20,10,Medium,4.1,4
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,971,Vegan,25,10,Medium,1.8,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,972,Gluten-Free,20,20,Medium,3.4,6
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,973,None,15,20,Medium,3.4,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,974,None,15,50,Easy,1.7,2
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,975,None,30,10,Medium,3.0,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,976,Dairy-Free,10,10,Medium,1.1,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,977,Gluten-Free,15,20,Easy,4.0,1
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,978,Vegan,20,30,Easy,4.9,6
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,979,Vegan,25,20,Medium,4.9,1
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,980,Nut-Free,25,40,Medium,2.3,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,981,Dairy-Free,10,40,Easy,2.6,4
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,982,None,25,40,Easy,3.5,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,983,Dairy-Free,30,50,Medium,4.3,1
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,984,Gluten-Free,10,50,Medium,1.4,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,985,Dairy-Free,20,10,Medium,2.3,1
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,986,Vegan,15,30,Hard,2.5,2
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,987,None,30,50,Hard,1.1,6
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,988,None,25,40,Medium,4.8,4
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,989,Dairy-Free,30,30,Easy,3.3,4
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,990,Gluten-Free,10,20,Hard,4.7,2
+Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan Cheese, Pancetta, Pepper",Italian,Boil spaghetti; Fry pancetta; Mix eggs and cheese; Combine all,991,Nut-Free,20,50,Hard,3.6,2
+Chicken Tikka Masala,"Chicken, Yogurt, Tomatoes, Onion, Garlic, Ginger, Spices",Indian,Marinate chicken; Fry onions and spices; Add chicken and tomatoes; Simmer,992,None,25,20,Easy,3.9,1
+Sushi,"Rice, Nori, Salmon, Avocado, Soy Sauce",Japanese,Prepare rice; Cut salmon and avocado; Assemble sushi; Serve with soy sauce,993,Nut-Free,20,30,Hard,1.1,4
+Beef Tacos,"Beef, Tortillas, Lettuce, Cheese, Salsa, Avocado",Mexican,Cook beef; Prepare toppings; Assemble tacos; Serve,994,Vegan,30,30,Hard,5.0,1
+Croissant,"Flour, Butter, Sugar, Yeast, Milk",French,Prepare dough; Fold with butter; Roll and shape; Bake,995,Vegan,10,40,Medium,2.3,6
+Pad Thai,"Rice Noodles, Shrimp, Tofu, Eggs, Peanuts, Bean Sprouts, Tamarind Paste",Thai,Cook noodles; Stir-fry shrimp and tofu; Add eggs and sauce; Combine all; Garnish,996,Nut-Free,10,30,Hard,3.6,6
+Falafel,"Chickpeas, Onion, Garlic, Parsley, Cumin, Coriander, Flour",Middle Eastern,Blend ingredients; Form balls; Fry; Serve with pita and sauce,997,Gluten-Free,15,40,Easy,3.9,2
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken",American,Prepare lettuce; Add croutons and cheese; Mix with dressing; Top with chicken,998,Gluten-Free,25,20,Medium,1.7,2
+Pancakes,"Flour, Eggs, Milk, Sugar, Baking Powder, Butter",American,Mix ingredients; Cook on griddle; Serve with syrup,999,Gluten-Free,25,40,Hard,3.6,2
+Ratatouille,"Eggplant, Zucchini, Bell Peppers, Tomatoes, Onion, Garlic, Herbs",French,Slice vegetables; Layer in dish; Bake; Serve,1000,Gluten-Free,10,10,Medium,2.9,6
